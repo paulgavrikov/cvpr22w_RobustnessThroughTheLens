@@ -1,3 +1,6 @@
 [submodule "robustbench"]
 	path = robustbench
 	url = https://github.com/RobustBench/robustbench.git
+[submodule "onnxzoo2filterdb"]
+	path = onnxzoo2filterdb
+	url = https://github.com/paulgavrikov/onnxzoo2filterdb
