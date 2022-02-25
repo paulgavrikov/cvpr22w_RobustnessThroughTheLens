@@ -1,0 +1,42 @@
+initial accuracy: 94.25%
+apgd-ce - 1/38 - 250 out of 250 successfully perturbed
+apgd-ce - 2/38 - 250 out of 250 successfully perturbed
+apgd-ce - 3/38 - 250 out of 250 successfully perturbed
+apgd-ce - 4/38 - 250 out of 250 successfully perturbed
+apgd-ce - 5/38 - 250 out of 250 successfully perturbed
+apgd-ce - 6/38 - 250 out of 250 successfully perturbed
+apgd-ce - 7/38 - 250 out of 250 successfully perturbed
+apgd-ce - 8/38 - 250 out of 250 successfully perturbed
+apgd-ce - 9/38 - 250 out of 250 successfully perturbed
+apgd-ce - 10/38 - 250 out of 250 successfully perturbed
+apgd-ce - 11/38 - 250 out of 250 successfully perturbed
+apgd-ce - 12/38 - 250 out of 250 successfully perturbed
+apgd-ce - 13/38 - 250 out of 250 successfully perturbed
+apgd-ce - 14/38 - 250 out of 250 successfully perturbed
+apgd-ce - 15/38 - 250 out of 250 successfully perturbed
+apgd-ce - 16/38 - 250 out of 250 successfully perturbed
+apgd-ce - 17/38 - 250 out of 250 successfully perturbed
+apgd-ce - 18/38 - 250 out of 250 successfully perturbed
+apgd-ce - 19/38 - 250 out of 250 successfully perturbed
+apgd-ce - 20/38 - 250 out of 250 successfully perturbed
+apgd-ce - 21/38 - 250 out of 250 successfully perturbed
+apgd-ce - 22/38 - 250 out of 250 successfully perturbed
+apgd-ce - 23/38 - 250 out of 250 successfully perturbed
+apgd-ce - 24/38 - 250 out of 250 successfully perturbed
+apgd-ce - 25/38 - 250 out of 250 successfully perturbed
+apgd-ce - 26/38 - 250 out of 250 successfully perturbed
+apgd-ce - 27/38 - 250 out of 250 successfully perturbed
+apgd-ce - 28/38 - 250 out of 250 successfully perturbed
+apgd-ce - 29/38 - 250 out of 250 successfully perturbed
+apgd-ce - 30/38 - 250 out of 250 successfully perturbed
+apgd-ce - 31/38 - 250 out of 250 successfully perturbed
+apgd-ce - 32/38 - 250 out of 250 successfully perturbed
+apgd-ce - 33/38 - 250 out of 250 successfully perturbed
+apgd-ce - 34/38 - 250 out of 250 successfully perturbed
+apgd-ce - 35/38 - 250 out of 250 successfully perturbed
+apgd-ce - 36/38 - 250 out of 250 successfully perturbed
+apgd-ce - 37/38 - 250 out of 250 successfully perturbed
+apgd-ce - 38/38 - 175 out of 175 successfully perturbed
+robust accuracy after APGD-CE: 0.00% (total time 97.3 s)
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 0.00%

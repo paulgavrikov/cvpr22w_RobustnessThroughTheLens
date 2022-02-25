@@ -1,0 +1,45 @@
+Warning: it seems that the output is a probability distribution, please be sure that the logits are used! See flags_doc.md for details.
+initial accuracy: 86.50%
+apgd-ce - 1/35 - 242 out of 250 successfully perturbed
+apgd-ce - 2/35 - 244 out of 250 successfully perturbed
+apgd-ce - 3/35 - 246 out of 250 successfully perturbed
+apgd-ce - 4/35 - 243 out of 250 successfully perturbed
+apgd-ce - 5/35 - 238 out of 250 successfully perturbed
+apgd-ce - 6/35 - 243 out of 250 successfully perturbed
+apgd-ce - 7/35 - 241 out of 250 successfully perturbed
+apgd-ce - 8/35 - 238 out of 250 successfully perturbed
+apgd-ce - 9/35 - 240 out of 250 successfully perturbed
+apgd-ce - 10/35 - 247 out of 250 successfully perturbed
+apgd-ce - 11/35 - 243 out of 250 successfully perturbed
+apgd-ce - 12/35 - 243 out of 250 successfully perturbed
+apgd-ce - 13/35 - 242 out of 250 successfully perturbed
+apgd-ce - 14/35 - 238 out of 250 successfully perturbed
+apgd-ce - 15/35 - 240 out of 250 successfully perturbed
+apgd-ce - 16/35 - 241 out of 250 successfully perturbed
+apgd-ce - 17/35 - 243 out of 250 successfully perturbed
+apgd-ce - 18/35 - 242 out of 250 successfully perturbed
+apgd-ce - 19/35 - 239 out of 250 successfully perturbed
+apgd-ce - 20/35 - 244 out of 250 successfully perturbed
+apgd-ce - 21/35 - 240 out of 250 successfully perturbed
+apgd-ce - 22/35 - 241 out of 250 successfully perturbed
+apgd-ce - 23/35 - 244 out of 250 successfully perturbed
+apgd-ce - 24/35 - 244 out of 250 successfully perturbed
+apgd-ce - 25/35 - 243 out of 250 successfully perturbed
+apgd-ce - 26/35 - 247 out of 250 successfully perturbed
+apgd-ce - 27/35 - 234 out of 250 successfully perturbed
+apgd-ce - 28/35 - 246 out of 250 successfully perturbed
+apgd-ce - 29/35 - 240 out of 250 successfully perturbed
+apgd-ce - 30/35 - 246 out of 250 successfully perturbed
+apgd-ce - 31/35 - 243 out of 250 successfully perturbed
+apgd-ce - 32/35 - 239 out of 250 successfully perturbed
+apgd-ce - 33/35 - 240 out of 250 successfully perturbed
+apgd-ce - 34/35 - 239 out of 250 successfully perturbed
+apgd-ce - 35/35 - 144 out of 150 successfully perturbed
+robust accuracy after APGD-CE: 2.83% (total time 965.6 s)
+apgd-t - 1/2 - 249 out of 250 successfully perturbed
+apgd-t - 2/2 - 33 out of 33 successfully perturbed
+robust accuracy after APGD-T: 0.01% (total time 1074.5 s)
+fab-t - 1/1 - 1 out of 1 successfully perturbed
+robust accuracy after FAB-T: 0.00% (total time 1082.5 s)
+max Linf perturbation: 0.03137, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 0.00%
