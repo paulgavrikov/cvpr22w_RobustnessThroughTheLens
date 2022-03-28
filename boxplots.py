@@ -9,7 +9,7 @@ def set_box_color(bp, color):
     plt.setp(bp["means"], color="black")
 
 
-def boxplots(selectors, labels=None, ax=None):
+def boxplots(selectors, labels=None, ax=None, hide_ticks=False):
     plt.rcParams['xtick.major.size'] = 3.5
     if ax is None:
         plt.figure(facecolor="white")
@@ -28,6 +28,13 @@ def boxplots(selectors, labels=None, ax=None):
         set_box_color(bp, color)
         if labels:
             ax.plot([], c=color, linewidth=5, label=labels[i])
-    ax.set_xticks(np.arange(0, len(df.index) * n, n), df.index, rotation=22.5)
-    ax.set_xlabel("convolution depth decile")
+            
+    if not hide_ticks:
+        ax.set_xticks(np.arange(0, len(df.index) * n, n), df.index, rotation=22.5)
+        ax.set_xlabel("convolution depth decile")
+    else:
+        ax.set_xticks(np.arange(0, len(df.index) * n, n), [], rotation=22.5)
+        ax.tick_params(length=0)
+        
     ax.grid() #axis="y"
+    return df
