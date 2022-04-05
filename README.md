@@ -1,6 +1,8 @@
 # Adversarial Robustness through the Lens of Convolutional Filters
 Paul Gavrikov, Janis Keuper
 
+Presented at: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) - The Art of Robustness: Devil and Angel in Adversarial Machine Learning Workshop
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 
