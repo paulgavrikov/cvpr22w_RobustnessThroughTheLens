@@ -14,6 +14,8 @@ Presented at: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 Workshop Paper: TBD
 
+arXiv: https://arxiv.org/abs/2204.02481
+
 Workshop Poster: TBD
 
 This is a specialized article on Robustness, derived from our main paper: https://github.com/paulgavrikov/CNN-Filter-DB/.
