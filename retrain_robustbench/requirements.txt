@@ -1,6 +1,6 @@
 torch
 torchvision
-pytorch-lightning==1.4.4
+pytorch-lightning==1.6.0
 torchmetrics==0.7.0
 git+https://github.com/RobustBench/robustbench.git
 geotorch
