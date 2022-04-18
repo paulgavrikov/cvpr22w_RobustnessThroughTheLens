@@ -4,6 +4,3 @@
 [submodule "onnxzoo2filterdb"]
 	path = onnxzoo2filterdb
 	url = https://github.com/paulgavrikov/onnxzoo2filterdb
-[submodule "paper"]
-	path = paper
-	url = https://github.com/keuperj/CVPR-W-Adv-22
